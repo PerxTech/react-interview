@@ -9,7 +9,7 @@ repositories and another section that displays the organizations.
 # Additional features
 Implement *at least* four features from this list.
 
-- Use only hooks
+- Use only hooks and functional components
 - Some sort of Unit Testing
 - Some sort of Integration Testing
 - Having a nice UI
