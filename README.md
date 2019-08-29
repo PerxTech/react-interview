@@ -7,11 +7,9 @@ would include an input to enter the username, a section to display the list of
 repositories and another section that displays the organizations.
 
 # Additional features
-Implement *at least* three features from this list.
+Implement *at least* four features from this list.
 
-- Make use of ES6/7 syntax including but not limited to arrow functions,
-  destructuring and async/await
-- Error handling
+- Use only hooks
 - Some sort of Unit Testing
 - Some sort of Integration Testing
 - Having a nice UI
