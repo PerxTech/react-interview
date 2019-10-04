@@ -6,6 +6,9 @@ and host the source code on your Github profile. The application in a nutshell
 would include an input to enter the username, a section to display the list of
 repositories and another section that displays the organizations.
 
+Please use Facebook's [create-react-app](https://create-react-app.dev/) as the
+base.
+
 # Additional features
 Implement *at least* four features from this list.
 
