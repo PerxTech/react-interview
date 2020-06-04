@@ -10,10 +10,10 @@ Please use Facebook's [create-react-app](https://create-react-app.dev/) as the
 base.
 
 # Additional features
-Implement *at least* four features from this list.
+Implement *at least* **four** features from this list.
 
 - Use only hooks and functional components
 - Some sort of Unit Testing
 - Some sort of Integration Testing
 - Having a nice UI
-- Adding state management (Redux, MobX., etc)
+- Adding a global state management (Redux, MobX, xstate, recoil etc)
